@@ -1,0 +1,7 @@
+# RUN BACKEND SERVER
+
+node index.js
+
+# RUN FRONTEND APP
+
+npm run start
